@@ -1,4 +1,4 @@
-# Apssdc_UETP # Resume
+ # Resume
  # _ANAND TEJA KADIMISETTI_
  # personal Details
  _Name_    : Anand Teja . kadimisetti <Br>
