@@ -1,59 +1,62 @@
- # Resume
- # _ANAND TEJA KADIMISETTI_
- # personal Details
- _Name_    : Anand Teja . kadimisetti <Br>
- _Mail.id_ : anandtejareddy02153@gmail.com <Br>
- _phone No_ : 8008983206 <Br>
- _Address_ : 2-22, A.p Mallavaram <Br>
-                   ~Gollaprollu Mandal <Br>
-                   ~Pin : 533449 <Br>
-            ~E.G.District , Andhra pradesh <Br>
-_Date of Birth_ : 18-07-1999 <Br>
-_Father Name_ : Krishna Reddy.K <Br>
-_Mother Name_ : Santhaveni.k <Br>
-_Nationality_ : Indian <Br>
-  #### Education Details
- ##_M.S.C on still Perceiving**_ <Br>
+# APSSDC UETP 
+# Resume - SANTHOSH KUMAR KOPPUSETTY
+            # Personal Details
+ _Name_      : Santhosh Kumar Koppusetty <Br>
+ _Mail.id_   : santhoshkumar19112@gmail.com <Br>
+ _Phone No._ : 9381134113 <Br>
+ _Address_   : 2-32/a, Main road <Br>
+               Cherukumpalem <Br>
+               Rajavommangi Mandal <Br>
+               East Godavari <Br>
+               Andhrapradesh , 533436 <Br>
+_Date of Birth_ : 26-12-1999 <Br>
+_Father's Name_ : Veerababu <Br>
+_Mother's Name_ : Ratnam <Br>
+_Nationality_   : Indian <Br>
 
-_DEGREE_ _BSC_ <Br>
+  #### Education Details <Br>
+
+_DEGREE_ <Br>
+  •Course       : BSc <Br>
   •College Name : Aditya Degree College <Br>
-  •Branch       : Kakinada <Br>
+  •Place        : Kakinada <Br>
   •Year Of Pass : 2020 <Br>
-  •percentage.  : 82%
+  •percentage.  : 86.9%
   
-_INTERMEDIATE_ _MPC_<Br>
- •College Name: Sri Chaitanya college <Br>
- •Branch       : Kakinada <Br>
+_INTERMEDIATE_ <Br>
+ •Course       : MPC <Br>
+ •College Name : BSR Junior College <Br>
+ •Place        : Gokavaram <Br>
  •Year Of pass : 2017 <Br>
- •Percentage   : 77% 
+ •Percentage   : 86.1% 
 
 _SSC_ <Br>
-•School Name : Harvest The concept school <Br>
-•Branch : Pithapuram <Br>
-•Year Of pass : 2015 <Br>
-•Percentage : 92%
+ •School Name  : SVN Public School <Br>
+ •Place        : Jaggampeta <Br>
+ •Year Of pass : 2015 <Br>
+ •Percentage   : 90%
 
 _Skills_ <Br>
-°Python <Br>
-°GitHub <Br>
+ °Python <Br>
+ °GitHub <Br>
 
-_Strengths & Weakness_ <Br>
-°Good Awareness at working place <Br>
-°Quick Learner <Br>
-°Taking on too much Responsibility <Br>
-°Being too detail oriented
-°Being too sensitive
+_Strengths_ <Br>
+ °Flexible <Br>
+ °Quick Learner <Br>
+
+_Weaknesses_
+ °Being too detail oriented
+ °Taking on too much responsibility
 
 _Hobbies_ <Br>
-°Reading News & Books <Br>
-°Playing Cricket <Br>
-°Listening Music <Br>
+ °Browsing net <Br>
+ °Playing cricket <Br>
+ °Listening music <Br>
 
-_Declaration_ <Br>
- I Here by declare that all the above furnished
-Information is genuine to the best of my knowledge 
-
+_Declaration_ : <Br>
+ I here by declare that all the above furnished information is genuine to the best of my knowledge and belief
 
 
 
-                 _Signature_ : Anand Teja.k 
+                                                                                            _Signature_:
+                                                                                            Santhosh Kumar.K 
