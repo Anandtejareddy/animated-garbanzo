@@ -1,5 +1,5 @@
 # Apssdc_UETP # Resume
- # _Anand Teja Kadimisetti_
+ # _ANAND TEJA KADIMISETTI_
  # personal Details
  _Name_    : Anand Teja . kadimisetti <Br>
  _Mail.id_ : anandtejareddy02153@gmail.com <Br>
